@@ -1,0 +1,22 @@
+* {
+  @if $debug-mode {
+    outline: 1px solid red;
+  }
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html * {
+  font-family: $poppins-font;
+}
+
+body {
+  overflow-x: hidden;
+}
