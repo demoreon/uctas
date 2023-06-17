@@ -46,7 +46,8 @@ upper = basis + dev * stdDev
 lower = basis - dev * stdDev
 
 plot(upper, color=color.blue, title="Upper Band")
-plot(lower, color=color.red, title="Lower Band")'''
+plot(lower, color=color.red, title="Lower Band")
+```
 
 ## Algorithm
 
