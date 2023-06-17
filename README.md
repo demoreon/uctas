@@ -1,5 +1,7 @@
 # <center>Ultimate Crypto Trading Analysis Suite</center>
+
 ![Image Description](Screenshot_2.png)
+
 The Ultimate Crypto Trading Analysis Suite is a comprehensive and robust TradingView indicator built on TradingView that combines multiple technical indicators to provide traders with powerful insights into the behavior of specific cryptocurrencies.
 
 This advanced suite incorporates Bollinger Bands, spread analysis across three Bollinger Bands, RSI (Relative Strength Index), and MACD (Moving Average Convergence Divergence) across multiple timeframes.
