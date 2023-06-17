@@ -88,4 +88,4 @@ I would like to thank the TradingView community for their valuable resources and
 
 ## Contact
 
-For any inquiries or feedback, please contact your-name.
+For any inquiries or feedback, please demoreon@gmail.com
