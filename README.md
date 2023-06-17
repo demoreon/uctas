@@ -1,12 +1,12 @@
 # <center>Ultimate Crypto Trading Analysis Suite</center>
-
+![Image Description](Screenshot_2.png)
 The Ultimate Crypto Trading Analysis Suite is a comprehensive and robust TradingView indicator built on TradingView that combines multiple technical indicators to provide traders with powerful insights into the behavior of specific cryptocurrencies.
 
 This advanced suite incorporates Bollinger Bands, spread analysis across three Bollinger Bands, RSI (Relative Strength Index), and MACD (Moving Average Convergence Divergence) across multiple timeframes.
 
 Additionally, it offers enhanced color-coded visualization, user-defined parameters, an alert system, multi-time frame analysis, and a user-friendly interface. By integrating these features, traders can make informed decisions and optimize their trading strategies.
 
-![Image Description](Screenshot_2.png)
+![Image Description](Screenshot_1.png)
 
 **Features**
 - Custom Bollinger Bands indicator
@@ -48,6 +48,7 @@ lower = basis - dev * stdDev
 plot(upper, color=color.blue, title="Upper Band")
 plot(lower, color=color.red, title="Lower Band")
 ```
+![Image Description](Screenshot_5.png)
 
 ## Algorithm
 
@@ -60,6 +61,10 @@ The algorithm for the Custom Bollinger Bands indicator implemented in this proje
 5. Calculate the upper band by adding the standard deviation multiplied by the standard deviation parameter to the moving average.
 6. Calculate the lower band by subtracting the standard deviation multiplied by the standard deviation parameter from the moving average.
 7. Plot the upper and lower bands on the chart.
+
+![Image Description](Screenshot_3.png)
+
+![Image Description](Screenshot_4.png)
 
 ## Contributions
 
