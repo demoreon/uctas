@@ -60,7 +60,7 @@ The algorithm for the Custom Bollinger Bands indicator implemented in this proje
 6. Calculate the lower band by subtracting the standard deviation multiplied by the standard deviation parameter from the moving average.
 7. Plot the upper and lower bands on the chart.
 
-## Contributions
+##Contributions
 
 Contributions to the Crypto Trading Analysis Suite are welcome. If you would like to contribute, please follow the standard GitHub workflow:
 
